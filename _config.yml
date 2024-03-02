@@ -52,16 +52,17 @@ collections:
 
 defaults:
   # _pages
-  # - scope:
-  #     path: ""
-  #     type: "pages"
-  #   values:
-  #     layout: single
-  #     read_time: false
-  #     comments: false
-  #     share: true
-  #     related: false
-  #     author_profile: false
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      author_profile: false
+  # _projects
   - scope:
       path: ""
       type: projects
@@ -69,7 +70,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      related: true
       author: Jake Armstrong
   
 

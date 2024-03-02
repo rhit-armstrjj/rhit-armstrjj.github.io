@@ -1,7 +1,6 @@
 Jake:
-  name: "Jake Armstrong"
-  bio: "Your man."
-  # avatar: ""
+  bio: "Currently signed to join Kalogon Inc, summer 2024. For professional inquiries, you can reach me below."
+  avatar: "/assets/images/20230327_105205.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

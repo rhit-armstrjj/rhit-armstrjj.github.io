@@ -5,6 +5,9 @@ read_time: false
 layout: single
 permalink: /credits/
 ---
+**Under Construction:** Hello, This website is still under construction, so please understand that text, assets, or links may not be final.
+{: .notice--warning}
+
 I would like to thank everyone who has contributed to the following projects/assets I used to make this website.
 
 ## Jekyll

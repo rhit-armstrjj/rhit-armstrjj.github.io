@@ -1,18 +1,8 @@
 ---
-author_profile: false
-layout: archive
+layout: collection
+collection: projects
 title: Project Portfolio
 permalink: /projects/
-collection: projects
 ---
-{% assign projects = site.projects %}
-
-<ul>
-    {% for project in projects %}
-    <li>
-        <h2>
-            <a href="{{ project.url }}">{{ project.title }}</a>
-        </h2>
-    </li>
-    {% endfor %}
-</ul>
+**Under Construction:** Hello, This website is still under construction, so please understand that text, assets, or links may not be final.
+{: .notice--warning}

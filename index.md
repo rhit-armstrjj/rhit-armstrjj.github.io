@@ -17,3 +17,8 @@ header:
 
 ---
 Find the splash from <a href="https://www.freepik.com/free-vector/foliage-background_4258339.htm#query=vintage%20tropical&position=14&from_view=keyword&track=ais&uuid=d46ac48c-6cab-49f4-9207-e32123788b5e">rawpixel.com</a> on Freepik
+
+
+**Under Construction:** Hello, This website is still under construction, so please understand that text, assets, or links may not be final.
+{: .notice--warning}
+
