@@ -1,0 +1,8 @@
+Jake:
+  name: "Jake Armstrong"
+  bio: "Your man."
+  # avatar: ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jacob.js.armstrong@gmail.com"

@@ -1,0 +1,8 @@
+main:
+  - title: "Portfolio"
+    url: /projects/
+
+  - title: "Resum&eacute;"
+
+  - title: "Credits"
+    url: /credits/

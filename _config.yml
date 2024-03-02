@@ -29,8 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rhit-armstrjj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: rhit-armstrjj
 repository: rhit-armstrjj/rhit-armstrjj.github.io
-breadcrumbs: true
-search: true
+search: false
 
 # Build settings
 # theme: minimal-mistakes-jekyll
@@ -44,17 +43,36 @@ plugins:
 minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale: "en-us"
 
+include: ["_pages"]
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
-  # _posts
+  # _pages
+  # - scope:
+  #     path: ""
+  #     type: "pages"
+  #   values:
+  #     layout: single
+  #     read_time: false
+  #     comments: false
+  #     share: true
+  #     related: false
+  #     author_profile: false
   - scope:
       path: ""
-      type: posts
-  - values:
+      type: projects
+    values:
       layout: single
+      author_profile: true
       read_time: true
-      comments: false
-      share: true
       related: true
+      author: Jake Armstrong
+  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
