@@ -2,7 +2,8 @@ main:
   - title: "Portfolio"
     url: /projects/
 
-  - title: "Resum&eacute;"
+  - title: "Contact"
+    url: /contact/
 
   - title: "Credits"
     url: /credits/

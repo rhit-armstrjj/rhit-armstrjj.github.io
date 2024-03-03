@@ -2,6 +2,6 @@ Jake:
   bio: "Currently signed to join Kalogon Inc, summer 2024. For professional inquiries, you can reach me below."
   avatar: "/assets/images/20230327_105205.jpg"
   links:
-    - label: "Email"
+    - label: "Contact"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jacob.js.armstrong@gmail.com"
+      url: "/contact"
